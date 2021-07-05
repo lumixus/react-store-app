@@ -1,0 +1,15 @@
+.active {
+    border-bottom : 2px solid orange;
+    color :orange;
+    font-weight:bold;
+}
+
+
+.checkout-steps > div{
+ width:25%;
+}
+
+
+.shippingForm div{
+    margin-bottom : 25px;
+}
